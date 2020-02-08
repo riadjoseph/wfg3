@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SEO and Web Development in Paris West, Yvelines",
-    "currentPage": "index.html",
+    "currentPage": "get-your-website.html",
     "theme": {
       "name": "blackamp",
       "title": "BlackAMP",
@@ -102,8 +102,8 @@
         "title": "> Get Your Website with WebForGood.fr",
         "order": 1,
         "meta_descr": "Let's develop your new fast and secure new website. Web Development & SEO in Paris West.",
-        "header_custom": "\n\n <!-- Twitter Card data -->\n<meta name=\"twitter:card\" content=\"Web Developper Yvelines et SEO\">\n<meta name=\"twitter:site\" content=\"@WebforgoodF\">\n<meta name=\"twitter:creator\" content=\"@riadabdallah\">\n<meta name=\"twitter:title\" content=\"Economic development through a good web to SMEs - WebForGood.fr\">\n<meta name=\"twitter:description\" content=\"Users today want to find info, fast, and have a sound and safe experience with your website.\">\n<meta name=\"twitter:image\" content=\"https://www.webforgood.fr/assets/images/web-for-good-image.png\">\n<meta name=\"twitter:image:alt\" content=\"WebForGood\">\n\n<!-- Open Graph data -->\n<meta property=\"fb:app_id\" content=\"1237119076454540\">\n<meta property=\"og:title\" content=\"Economic development through a good web to SMEs - WebForGood.fr\">\n<meta property=\"og:type\" content=\"article\">\n<meta property=\"og:image\" content=\"https://www.webforgood.fr/assets/images/web-for-good-image.png\">\n<meta property=\"og:url\" content=\"https://www.webforgood.fr/accueil.html\">\n<meta property=\"og:description\" content=\"Users today want to FIND info, FAST, and have a sound and safe INTERACTION with your website.\">\n<meta property=\"og:site_name\" content=\"WebForGood\">\n<meta property=\"article:published_time\" content=\"2019-03-19T16:25:06.198Z\">\n<meta property=\"article:modified_time\" content=\"2020-02-7T17:25:06.198Z\">\n\n<!-- Schema.org markup  -->\n<meta itemprop=\"name\" content=\"Economic development through a good web to SMEs - WebForGood.fr\">\n<meta itemprop=\"description\" content=\"Users today want to FIND info, FAST, and have a sound and safe INTERACTION with your website.\">\n<meta itemprop=\"image\" content=\"https://www.webforgood.fr/assets/images/web-for-good-image.png\">",
-        "footer_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-KP324LW&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n",
+        "header_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-KP324LW&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n",
+        "footer_custom": "",
         "meta_image": "@PROJECT_PATH@/assets/images/webforgood-logo-sept-2020.png",
         "html_before": "<!--\n     Good to see you here, if you want to collaborate on some web dev and SEO projects don't hesitate to give me a call / send a message.\n-->"
       },
@@ -604,8 +604,8 @@
         "main": true,
         "title": "> WebDev, SEO & Digital Marketing | WebForGood.fr",
         "meta_descr": "We do web development, SEO and Digital marketing. Based in the Paris area, we serve you worldwide in French, English and Arabic.",
-        "header_custom": "\n <!-- Twitter Card data -->\n<meta name=\"twitter:card\" content=\"Consultant SEO\">\n<meta name=\"twitter:site\" content=\"@WebforgoodF\">\n<meta name=\"twitter:creator\" content=\"@riadabdallah\">\n<meta name=\"twitter:title\" content=\"Economic development through a good web to SMEs - WebForGood.fr\">\n<meta name=\"twitter:description\" content=\"Users today want to FIND info, FAST, and have a sound and safe INTERACTION with your website.\">\n<meta name=\"twitter:image\" content=\"https://www.webforgood.fr/assets/images/web-for-good-image.png\">\n<meta name=\"twitter:image:alt\" content=\"WebForGood\">\n\n<!-- Open Graph data -->\n<meta property=\"fb:app_id\" content=\"1237119076454540\">\n<meta property=\"og:title\" content=\"Economic development through a good web to SMEs - WebForGood.fr\">\n<meta property=\"og:type\" content=\"article\">\n<meta property=\"og:image\" content=\"https://www.webforgood.fr/assets/images/web-for-good-image.png\">\n<meta property=\"og:url\" content=\"https://www.webforgood.fr/index.html\">\n<meta property=\"og:description\" content=\"Users today want to FIND info, FAST, and have a sound and safe INTERACTION with your website.\">\n<meta property=\"og:site_name\" content=\"WebForGood\">\n<meta property=\"article:published_time\" content=\"2019-03-19T16:25:06.198Z\">\n<meta property=\"article:modified_time\" content=\"2019-03-19T17:25:06.198Z\">\n\n<!-- Schema.org markup for Google+ -->\n<meta itemprop=\"name\" content=\"Economic development through a good web to SMEs - WebForGood.fr\">\n<meta itemprop=\"description\" content=\"Users today want to FIND info, FAST, and have a sound and safe INTERACTION with your website.\">\n<meta itemprop=\"image\" content=\"https://www.webforgood.fr/assets/images/web-for-good-image.png\">",
-        "footer_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-KP324LW&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n",
+        "header_custom": "<!-- Google Tag Manager -->\n<amp-analytics config=\"https://www.googletagmanager.com/amp.json?id=GTM-KP324LW&gtm.url=SOURCE_URL\" data-credentials=\"include\"></amp-analytics>\n",
+        "footer_custom": "",
         "html_before": "<!--\n     Good to see you here, if you want to collaborate on some web dev and SEO projects don't hesitate to give me a call / send a message.\n-->",
         "meta_image": "@PROJECT_PATH@/assets/images/webforgood-logo-sept-2020.png"
       },
