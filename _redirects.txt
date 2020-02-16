@@ -3,6 +3,6 @@
 # Redirect default Netlify subdomain to primary domain
 https://elated-meninsky-0211e0.netlify.com/* https://webforgood.fr/:splat 301!
 
-/business/url-unique-ici.html https://webforgood.fr/index.html
-/my-website/la-startup-fr.html https://webforgood.fr/index.html
-/en/web-seo-marketing.html https://webforgood.fr/index.html
+https://webforgood.fr/business/url-unique-ici.html https://webforgood.fr/index.html
+https://webforgood.fr/my-website/la-startup-fr.html https://webforgood.fr/index.html
+https://webforgood.fr/en/web-seo-marketing.html https://webforgood.fr/index.html
